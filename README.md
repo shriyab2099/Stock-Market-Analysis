@@ -1,5 +1,5 @@
 # Stock-Market-Analysis
-**Stock Market Analysis Readme**
+
 
 ## Introduction
 Welcome to the Stock Market Analysis repository. This repository provides code and data for conducting comprehensive analysis on the stock market. The analysis aims to offer insights into the performance of various stocks and assist in making informed investment decisions.
